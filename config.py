@@ -1,0 +1,1 @@
+DB_NAME = "jewelry_store.db" 
